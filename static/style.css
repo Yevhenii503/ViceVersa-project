@@ -28,3 +28,8 @@ body{
 input:hover{
 	background-color: limegreen;
 }
+
+
+.vice_verse_text{
+	font-size: 40px;
+}
