@@ -1,0 +1,30 @@
+
+body{
+	background-color: rgb(128,128,128);
+}
+
+.heading{
+	color: darkred;
+	text-align: center;
+	font-size: 80px;
+}
+
+.text_user{
+	border: solid 2px black;
+	background-color: rgb(200,200,200);
+	height: 170px;
+	width: 530px;
+	font-size: 25px;
+}
+
+.submit{
+	background-color: darkgreen;
+	font-size: 20px;
+	height: 50px;
+	width: 100px;
+
+}
+
+input:hover{
+	background-color: limegreen;
+}
